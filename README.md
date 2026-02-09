@@ -31,9 +31,7 @@ Currently based in Fortaleza, Brazil.
 - AWS SQS  
 
 ### Databases
-- PostgreSQL  
-- MySQL  
-- OracleDB  
+- PostgreSQL
 - Redis  
 
 ### Cloud & Infrastructure
